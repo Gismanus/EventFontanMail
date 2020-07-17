@@ -1,1 +1,1 @@
-"# EventFontanMail" 
+"# HTML-рассылка" 
